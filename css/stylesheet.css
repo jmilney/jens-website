@@ -1,6 +1,6 @@
 body{
     font-family: arial;
-    background-color: khaki
+    background-color: khaki;
 }
 .main-heading{
     font-size: 100px; 
@@ -8,6 +8,6 @@ body{
 #second-heading{
     font-size: 40px;
     font-style: italic;
-    background-color: darkolivegreen
+    background-color: darkolivegreen;
 }
 }
