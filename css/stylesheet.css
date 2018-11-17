@@ -1,11 +1,13 @@
 body{
     font-family: arial;
+    background-color: khaki
 }
 .main-heading{
-    font-size: 100px;
+    font-size: 100px; 
 }
 #second-heading{
     font-size: 40px;
+    font-style: italic;
     background-color: darkolivegreen
 }
 }
